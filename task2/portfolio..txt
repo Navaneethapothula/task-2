@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>NavaneethaPothula</h1>
+           </header>
+
+    <section id="about">
+        <img src="C:\Users\sriva\OneDrive\Desktop\codsoft\S.jpg" alt="Navaneetha pothula">
+        <p> Iam P. Navaneetha  is a dedicated Data Science Engineering student with a strong passion for learning and exploring new skills. With a keen interest in the intersection of technology and design,  and I  committed to continuous growth and is eager to contribute to projects that blend analytical rigor with creative design.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>C</li>
+            <li>HTML</li>
+            <li>PYTHON</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3> Detecting Sybil Attacks using Proofs of Work and Location of VANETs </h3>
+            <p>The project proposes a Sybil attack detection scheme using proofs of work and location. Each road side unit (RSU) issues a signed time-stamped tag as a proof for the vehicle's anonymous location. The scheme requires multiple RSUs to issue trajectories, requiring an infeasible number of RSUs to create fake trajectories. The vehicle must solve a computational puzzle before obtaining a proof of location. During reported events, the event manager uses a matching technique to identify Sybil trajectories. Extensive experiments and simulations show a high detection rate with low false negative and acceptable communication and computation overhead. </p>
+            <img src="C:\Users\sriva\OneDrive\Desktop\codsoft\T.jpg" alt="Project Image">
+        </div>
+    </section>
+
+    <section id="resume">
+        <a href="C:\Users\sriva\Downloads\Navaneetha pothula.pdf" download>Download Resume</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: navaneethapothula2084@gmail.com</p>
+        <p>Phone: 7780767346</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Navaneetha pothula. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
